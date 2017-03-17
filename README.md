@@ -42,3 +42,7 @@ or
 For more information about using Python on Heroku, see these Dev Center articles:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+
+# NOTES
+* Ant wymaga Java 1.7
+* Heroku Connect + Heroku Databases plugins to install
